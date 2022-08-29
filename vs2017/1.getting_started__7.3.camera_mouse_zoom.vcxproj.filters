@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GITHUB\LearnOpenGL\src\1.getting_started\7.3.camera_mouse_zoom\camera_mouse_zoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GITHUB\LearnOpenGL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\GITHUB\LearnOpenGL\src\1.getting_started\7.3.camera_mouse_zoom\7.3.camera.fs" />
+    <None Include="D:\GITHUB\LearnOpenGL\src\1.getting_started\7.3.camera_mouse_zoom\7.3.camera.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1DFCD7A5-1F4A-3F42-B97A-AAD111E1DC1B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
